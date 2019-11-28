@@ -1,0 +1,2 @@
+# linux
+operation issues
